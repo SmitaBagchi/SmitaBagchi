@@ -1,3 +1,4 @@
 This is my first Git Repository.
 <br>
-Author - Smita bagchi
+Author - Smita Bagchi
+ 
